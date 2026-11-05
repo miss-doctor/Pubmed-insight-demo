@@ -1,0 +1,25 @@
+# Python 字节码缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 运行时磁盘缓存（可重建）
+cache/
+
+# 前端依赖与构建（依赖可重装，构建产物可重生成）
+frontend/node_modules/
+# 注：static/dist/ 建议保留（README 说运行时无需 Node 就靠它）
+# 如果希望仓库更小，也可以忽略 static/dist/
+
+# 环境与编辑器
+.env
+.venv/
+venv/
+.vscode/
+.idea/
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store

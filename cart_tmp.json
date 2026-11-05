@@ -1,0 +1,2656 @@
+{
+  "directions": [
+    {
+      "count": 344,
+      "theme": "Car Therapy"
+    },
+    {
+      "count": 316,
+      "theme": "Car Cells"
+    },
+    {
+      "count": 234,
+      "theme": "Chimeric Antigen"
+    },
+    {
+      "count": 226,
+      "theme": "Cell Therapy"
+    },
+    {
+      "count": 222,
+      "theme": "Antigen Receptor"
+    },
+    {
+      "count": 110,
+      "theme": "Solid Tumors"
+    },
+    {
+      "count": 106,
+      "theme": "This Review"
+    },
+    {
+      "count": 100,
+      "theme": "Multiple Myeloma"
+    }
+  ],
+  "from_cache": true,
+  "journals": [
+    {
+      "count": 23,
+      "journal": "Blood"
+    },
+    {
+      "count": 17,
+      "journal": "Frontiers in immunology"
+    },
+    {
+      "count": 9,
+      "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology"
+    },
+    {
+      "count": 8,
+      "journal": "The New England journal of medicine"
+    },
+    {
+      "count": 6,
+      "journal": "Molecular therapy : the journal of the American Society of Gene Therapy"
+    },
+    {
+      "count": 6,
+      "journal": "International journal of molecular sciences"
+    },
+    {
+      "count": 6,
+      "journal": "Nature reviews. Clinical oncology"
+    },
+    {
+      "count": 5,
+      "journal": "Nature biotechnology"
+    },
+    {
+      "count": 5,
+      "journal": "Cancer discovery"
+    },
+    {
+      "count": 4,
+      "journal": "Science (New York, N.Y.)"
+    }
+  ],
+  "keyword": "CAR-T therapy",
+  "metrics_meta": {
+    "built_at": "2026-10-17 16:53:20",
+    "if_edition": "JCR 2025",
+    "issn_count": 40248,
+    "journal_count": 23029,
+    "name_count": 23020,
+    "sources": [
+      "Clarivate JCR 2025\uff08\u5f71\u54cd\u56e0\u5b50\u4e0e JCR \u5206\u533a Q1\u2013Q4\uff09",
+      "\u4e2d\u56fd\u79d1\u5b66\u9662\u6587\u732e\u60c5\u62a5\u4e2d\u5fc3\u300a\u56fd\u9645\u671f\u520a\u9884\u8b66\u540d\u5355\u300b\u914d\u5957\u5206\u533a\u8868\u5347\u7ea7\u7248 2025\uff08\u5927\u7c7b\u5206\u533a / Top\uff09",
+      "\u539f\u59cb CSV \u968f hitfyd/ShowJCR \u9879\u76ee\u516c\u5f00\u53d1\u5e03"
+    ],
+    "with_cas_zone": 21780,
+    "with_impact_factor": 21975,
+    "zone_edition": "\u4e2d\u79d1\u9662\u5206\u533a\u8868\u5347\u7ea7\u7248 2025"
+  },
+  "report": "## CAR-T therapy \u9886\u57df\u7814\u7a76\u8fdb\u5c55\u7efc\u8ff0\uff08\u81ea\u52a8\u751f\u6210\uff09\n\n**\u4e00\u3001\u7814\u7a76\u6982\u51b5**\n\u4ee5\u201cCAR-T therapy\u201d\u4e3a\u5173\u952e\u8bcd\u68c0\u7d22 PubMed\uff0cPubMed \u539f\u59cb\u547d\u4e2d 12162 \u7bc7\uff0c\u5e76\u6309\u8fd1\u4e94\u5e74\uff082022\u20132026 \u5e74\uff09\u65f6\u95f4\u7a97\u53e3\u7eb3\u5165 200 \u7bc7\u6587\u732e\u8fdb\u884c\u5206\u6790\u3002\u4ece\u53d1\u6587\u8d8b\u52bf\u770b\uff0c\u8be5\u9886\u57df\u8fd1\u4e94\u5e74\u53d1\u6587\u91cf\u7a33\u4e2d\u6709\u53d8\uff0c\u9010\u6b65\u8fdb\u5165\u6c89\u6dc0\u4e0e\u6df1\u5316\u9636\u6bb5\uff0c\u8bf4\u660e\u5176\u4ecd\u662f\u56fd\u9645\u79d1\u7814\u5173\u6ce8\u7684\u70ed\u70b9\u65b9\u5411\u4e4b\u4e00\u3002\u76f8\u5173\u6210\u679c\u4e3b\u8981\u53d1\u8868\u5728 Blood\u3001Frontiers in immunology\u3001[Rinsho ketsueki] The Japanese journal of clinical hematology \u7b49\u9ad8\u5f71\u54cd\u529b\u671f\u520a\uff0c\u7814\u7a76\u529b\u91cf\u5206\u5e03\u8f83\u4e3a\u96c6\u4e2d\uff0c\u6574\u4f53\u5448\u73b0\u57fa\u7840\u7814\u7a76\u4e0e\u4e34\u5e8a\u5e94\u7528\u5e76\u8fdb\u7684\u683c\u5c40\u3002\n\n**\u4e8c\u3001\u7814\u7a76\u70ed\u70b9\u65b9\u5411**\n1. **\u65b9\u5411\u4e00 \u00b7 Car Therapy**\uff1a\u51fa\u73b0\u9891\u6b21\u6700\u9ad8\uff0c\u662f\u5f53\u524d\u8be5\u9886\u57df\u6700\u6838\u5fc3\u7684\u7814\u7a76\u7126\u70b9\uff0c\u76f8\u5173\u6210\u679c\u96c6\u4e2d\u63a2\u8ba8\u5176\u4f5c\u7528\u673a\u5236\u4e0e\u4e34\u5e8a\u53ef\u884c\u6027\u3002\n2. **\u65b9\u5411\u4e8c \u00b7 Car Cells**\uff1a\u7d27\u968f\u5176\u540e\uff0c\u53cd\u6620\u5b66\u754c\u5bf9\u76f8\u5173\u9776\u70b9\u4e0e\u4fe1\u53f7\u901a\u8def\u7684\u6301\u7eed\u5173\u6ce8\uff0c\u57fa\u7840\u7814\u7a76\u79ef\u7d2f\u8f83\u4e3a\u624e\u5b9e\u3002\n3. **\u65b9\u5411\u4e09 \u00b7 Chimeric Antigen**\uff1a\u76f8\u5173\u6210\u679c\u4e0d\u65ad\u6d8c\u73b0\uff0c\u63d0\u793a\u8be5\u65b9\u5411\u6b63\u5904\u4e8e\u5feb\u901f\u6210\u957f\u9636\u6bb5\uff0c\u5177\u5907\u8f83\u5927\u7684\u53d1\u5c55\u6f5c\u529b\u3002\n\u7efc\u5408\u9ad8\u9891\u4e3b\u9898\u8bcd\u53ef\u77e5\uff0c\u5f53\u524d\u7814\u7a76\u6574\u4f53\u56f4\u7ed5 Car Therapy\u3001Car Cells\u3001Chimeric Antigen\u3001Cell Therapy\u3001Antigen Receptor \u7b49\u65b9\u5411\u5c55\u5f00\uff0c\u7814\u7a76\u94fe\u6761\u6b63\u7531\u4f5c\u7528\u673a\u5236\u7684\u89e3\u6790\uff0c\u9010\u6b65\u5411\u65b0\u578b\u6cbb\u7597\u7b56\u7565\u7684\u4e34\u5e8a\u9a8c\u8bc1\u4e0e\u8f6c\u5316\u5ef6\u4f38\u3002\n\n**\u4e09\u3001\u9ad8\u5f71\u54cd\u529b\u6210\u679c**\n\u5728\u5f71\u54cd\u56e0\u5b50\u7ef4\u5ea6\u4e0a\uff0c\u672c\u9886\u57df\u7684\u4ee3\u8868\u6027\u671f\u520a\u5305\u62ec Nature reviews. Clinical oncology\uff08IF\u224894.6\uff0c\u4e2d\u79d1\u96621\u533a\uff09\u3001Nature reviews. Drug discovery\uff08IF\u224891.2\uff0c\u4e2d\u79d1\u96621\u533a\uff09\u3001The New England journal of medicine\uff08IF\u224884.5\uff0c\u4e2d\u79d1\u96621\u533a\uff09 \u7b49\u3002\u5176\u4e2d\u8f83\u5177\u4ee3\u8868\u6027\u7684\u6587\u732e\u6709\uff1aCancer immunotherapies: advances and bottlenecks.\uff1bOncolytic virus and CAR-T cell therapy in solid tumors.\u3002\u8fd9\u4e9b\u5de5\u4f5c\u5206\u522b\u4ece\u673a\u5236\u3001\u7597\u6548\u4e0e\u5b89\u5168\u6027\u7b49\u89d2\u5ea6\uff0c\u63a8\u52a8\u4e86\u8be5\u9886\u57df\u8ba4\u8bc6\u7684\u6df1\u5316\uff0c\u4e5f\u4e3a\u540e\u7eed\u7814\u7a76\u63d0\u4f9b\u4e86\u91cd\u8981\u53c2\u8003\u3002\n\n**\u56db\u3001\u7814\u7a76\u8d8b\u52bf\u4e0e\u5c55\u671b**\n\u603b\u4f53\u800c\u8a00\uff0cCAR-T therapy \u9886\u57df\u4ecd\u5904\u4e8e\u6d3b\u8dc3\u53d1\u5c55\u9636\u6bb5\uff0c\u4e14\u5448\u73b0\u51fa\u591a\u5b66\u79d1\u4ea4\u53c9\u3001\u4ece\u5b9e\u9a8c\u5ba4\u8d70\u5411\u4e34\u5e8a\u7684\u9c9c\u660e\u7279\u5f81\u3002\u672a\u6765\u7814\u7a76\u53ef\u91cd\u70b9\u5173\u6ce8\u4ee5\u4e0b\u4e09\u70b9\uff1a1\uff09\u6574\u5408\u591a\u7ec4\u5b66\u4e0e\u771f\u5b9e\u4e16\u754c\u6570\u636e\uff0c\u63d0\u5347\u7814\u7a76\u7ed3\u8bba\u7684\u5916\u90e8\u6548\u5ea6\u4e0e\u53ef\u91cd\u590d\u6027\uff1b2\uff09\u5f00\u5c55\u591a\u4e2d\u5fc3\u3001\u5927\u6837\u672c\u7684\u524d\u77bb\u6027\u7814\u7a76\uff0c\u7cfb\u7edf\u8bc4\u4f30\u65b0\u578b\u5e72\u9884\u7b56\u7565\u7684\u5b89\u5168\u6027\u4e0e\u6709\u6548\u6027\uff1b3\uff09\u5173\u6ce8\u4eba\u5de5\u667a\u80fd\u8f85\u52a9\u8bbe\u8ba1\u3001\u57fa\u56e0\u7f16\u8f91\u7b49\u4ea4\u53c9\u6280\u672f\u7684\u5e94\u7528\u6f5c\u529b\uff0c\u52a0\u901f\u57fa\u7840\u6210\u679c\u5411\u4e34\u5e8a\u8f6c\u5316\u843d\u5730\u3002",
+  "retrieved": 200,
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/?term=CAR-T%20therapy",
+  "stats": {
+    "avg_if": 20.49,
+    "if_coverage": 0.895,
+    "if_matched": 179,
+    "max_if": 94.6,
+    "q_counts": {
+      "Q1": 133,
+      "Q2": 23,
+      "Q3": 18,
+      "Q4": 5,
+      "\u672a\u6536\u5f55": 21
+    },
+    "top_journal_papers": 90,
+    "with_abstract": 127,
+    "zone_counts": {
+      "1\u533a": 88,
+      "2\u533a": 35,
+      "3\u533a": 28,
+      "4\u533a": 30,
+      "\u672a\u6536\u5f55": 19
+    },
+    "zone_coverage": 0.905,
+    "zone_matched": 181
+  },
+  "top_papers": [
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Killock D"
+      ],
+      "doi": "doi: 10.1038/s41571-023-00768-9",
+      "has_abstract": false,
+      "impact_factor": 94.6,
+      "is_top": true,
+      "issn": "1759-4774",
+      "journal": "Nature reviews. Clinical oncology",
+      "pmid": "37081160",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "CAR T cells induce durable remission of neuroblastoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37081160/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Killock D"
+      ],
+      "doi": "doi: 10.1038/s41571-022-00701-6",
+      "has_abstract": false,
+      "impact_factor": 94.6,
+      "is_top": true,
+      "issn": "1759-4774",
+      "journal": "Nature reviews. Clinical oncology",
+      "pmid": "36253450",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "GPRC5D-CAR T cells active in MM.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36253450/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Romero D"
+      ],
+      "doi": "doi: 10.1038/s41571-022-00648-8",
+      "has_abstract": false,
+      "impact_factor": 94.6,
+      "is_top": true,
+      "issn": "1759-4774",
+      "journal": "Nature reviews. Clinical oncology",
+      "pmid": "35606415",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "CAR T cells show activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35606415/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Sidaway P"
+      ],
+      "doi": "doi: 10.1038/s41571-022-00703-4",
+      "has_abstract": false,
+      "impact_factor": 94.6,
+      "is_top": true,
+      "issn": "1759-4774",
+      "journal": "Nature reviews. Clinical oncology",
+      "pmid": "36271140",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "Allogeneic CAR T cells show promise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36271140/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Sidaway P"
+      ],
+      "doi": "doi: 10.1038/s41571-021-00596-9",
+      "has_abstract": false,
+      "impact_factor": 94.6,
+      "is_top": true,
+      "issn": "1759-4774",
+      "journal": "Nature reviews. Clinical oncology",
+      "pmid": "34937949",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "Axicabtagene effective in indolent NHL.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34937949/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Sidaway P"
+      ],
+      "doi": "doi: 10.1038/s41571-022-00673-7",
+      "has_abstract": false,
+      "impact_factor": 94.6,
+      "is_top": true,
+      "issn": "1759-4774",
+      "journal": "Nature reviews. Clinical oncology",
+      "pmid": "35918608",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "Liso-cel effective in R/R LBCL.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35918608/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Verma M",
+        "Obergfell K",
+        "Topp S"
+      ],
+      "doi": "doi: 10.1038/d41573-023-00140-7",
+      "has_abstract": false,
+      "impact_factor": 91.2,
+      "is_top": true,
+      "issn": "1474-1776",
+      "journal": "Nature reviews. Drug discovery",
+      "pmid": "37673977",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "The next-generation CAR-T therapy landscape.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37673977/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Jenkins MR",
+        "Drummond KJ"
+      ],
+      "doi": "doi: 10.1056/NEJMe2401307",
+      "has_abstract": false,
+      "impact_factor": 84.5,
+      "is_top": true,
+      "issn": "0028-4793",
+      "journal": "The New England journal of medicine",
+      "pmid": "38598802",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "CAR T-Cell Therapy for Glioblastoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38598802/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Blaise D"
+      ],
+      "doi": "doi: 10.1056/NEJMe2403003",
+      "has_abstract": false,
+      "impact_factor": 84.5,
+      "is_top": true,
+      "issn": "0028-4793",
+      "journal": "The New England journal of medicine",
+      "pmid": "38657249",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "CAR as Booster to Launch Allogeneic Transplantation in Refractory Leukemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38657249/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Zhao WL",
+        "Wu DP",
+        "Hu Y"
+      ],
+      "doi": "doi: 10.1056/NEJMc2309399",
+      "has_abstract": false,
+      "impact_factor": 84.5,
+      "is_top": true,
+      "issn": "0028-4793",
+      "journal": "The New England journal of medicine",
+      "pmid": "37733322",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "Axicabtagene Ciloleucel in Large B-Cell Lymphoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37733322/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Lim AR",
+        "Shin SW"
+      ],
+      "doi": "doi: 10.1056/NEJMc2300132",
+      "has_abstract": false,
+      "impact_factor": 84.5,
+      "is_top": true,
+      "issn": "0028-4793",
+      "journal": "The New England journal of medicine",
+      "pmid": "36856630",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "Tumor-Infiltrating Lymphocyte Therapy in Advanced Melanoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36856630/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Quint\u00e1s-Cardama A"
+      ],
+      "doi": "doi: 10.1056/NEJMc2213985",
+      "has_abstract": false,
+      "impact_factor": 84.5,
+      "is_top": true,
+      "issn": "0028-4793",
+      "journal": "The New England journal of medicine",
+      "pmid": "36516097",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "GPRC5D-Targeted CAR T Cells for Myeloma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36516097/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Mailankody S",
+        "Landgren O"
+      ],
+      "doi": "doi: 10.1056/NEJMe2209692",
+      "has_abstract": false,
+      "impact_factor": 84.5,
+      "is_top": true,
+      "issn": "0028-4793",
+      "journal": "The New England journal of medicine",
+      "pmid": "35947712",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "T-Cell Engagers - Modern Immune-Based Therapies for Multiple Myeloma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35947712/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Roschewski M",
+        "Longo DL",
+        "Wilson WH"
+      ],
+      "doi": "doi: 10.1056/NEJMe2118899",
+      "has_abstract": false,
+      "impact_factor": 84.5,
+      "is_top": true,
+      "issn": "0028-4793",
+      "journal": "The New England journal of medicine",
+      "pmid": "34904797",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "CAR T-Cell Therapy for Large B-Cell Lymphoma - Who, When, and How?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34904797/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Mailankody S",
+        "Brentjens RJ",
+        "Smith EL"
+      ],
+      "doi": "doi: 10.1056/NEJMc2213985",
+      "has_abstract": false,
+      "impact_factor": 84.5,
+      "is_top": true,
+      "issn": "0028-4793",
+      "journal": "The New England journal of medicine",
+      "pmid": "36516098",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "GPRC5D-Targeted CAR T Cells for Myeloma. Reply.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36516098/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Dart A"
+      ],
+      "doi": "doi: 10.1038/s41568-022-00510-0",
+      "has_abstract": false,
+      "impact_factor": 60.7,
+      "is_top": true,
+      "issn": "1474-175X",
+      "journal": "Nature reviews. Cancer",
+      "pmid": "36076072",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "Local CAR manufacturing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36076072/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Brudno JN",
+        "Kochenderfer JN"
+      ],
+      "doi": "doi: 10.1038/s41591-022-02195-2",
+      "has_abstract": false,
+      "impact_factor": 52.5,
+      "is_top": true,
+      "issn": "1078-8956",
+      "journal": "Nature medicine",
+      "pmid": "36690813",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "Off-the-shelf CAR T cells for multiple myeloma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36690813/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "O'Leary K"
+      ],
+      "doi": "doi: 10.1038/s41591-022-02150-1",
+      "has_abstract": false,
+      "impact_factor": 52.5,
+      "is_top": true,
+      "issn": "1078-8956",
+      "journal": "Nature medicine",
+      "pmid": "36581754",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "CAR T cells beyond cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36581754/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Tschernia NP",
+        "Norberg SM",
+        "Gulley JL"
+      ],
+      "doi": "doi: 10.1038/s41591-022-01742-1",
+      "has_abstract": false,
+      "impact_factor": 52.5,
+      "is_top": true,
+      "issn": "1078-8956",
+      "journal": "Nature medicine",
+      "pmid": "35314844",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "CAR T cells reach clinical milestone in prostate cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35314844/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "An immune cell treatment that fights cancer is now taking aim at autoimmune disease.",
+      "abstract_preview": "An immune cell treatment that fights cancer is now taking aim at autoimmune disease.",
+      "authors": [
+        "Couzin-Frankel J"
+      ],
+      "doi": "doi: 10.1126/science.adu5507",
+      "has_abstract": true,
+      "impact_factor": 47.3,
+      "is_top": true,
+      "issn": "0036-8075",
+      "journal": "Science (New York, N.Y.)",
+      "pmid": "39541468",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "The counterattack.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39541468/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u7efc\u5408\u6027\u671f\u520a"
+    },
+    {
+      "abstract": "Epitope editing can empower targeted cancer immunotherapies.",
+      "abstract_preview": "Epitope editing can empower targeted cancer immunotherapies.",
+      "authors": [
+        "Casirati G"
+      ],
+      "doi": "doi: 10.1126/science.adn9409",
+      "has_abstract": true,
+      "impact_factor": 47.3,
+      "is_top": true,
+      "issn": "0036-8075",
+      "journal": "Science (New York, N.Y.)",
+      "pmid": "38359127",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Stem cells in disguise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38359127/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u7efc\u5408\u6027\u671f\u520a"
+    },
+    {
+      "abstract": "Designer lymphocytes expand the dynamic range of possibilities for treating disease.",
+      "abstract_preview": "Designer lymphocytes expand the dynamic range of possibilities for treating disease.",
+      "authors": [
+        "Salazar-Cavazos E",
+        "Altan-Bonnet G"
+      ],
+      "doi": "doi: 10.1126/science.adf5318",
+      "has_abstract": true,
+      "impact_factor": 47.3,
+      "is_top": true,
+      "issn": "0036-8075",
+      "journal": "Science (New York, N.Y.)",
+      "pmid": "36520890",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Engineering time-controlled immunotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36520890/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u7efc\u5408\u6027\u671f\u520a"
+    },
+    {
+      "abstract": "Disrupting cell cycle regulators can overcome anticancer T cell dysfunction.",
+      "abstract_preview": "Disrupting cell cycle regulators can overcome anticancer T cell dysfunction.",
+      "authors": [
+        "Zebley CC",
+        "Youngblood B"
+      ],
+      "doi": "doi: 10.1126/science.adf0546",
+      "has_abstract": true,
+      "impact_factor": 47.3,
+      "is_top": true,
+      "issn": "0036-8075",
+      "journal": "Science (New York, N.Y.)",
+      "pmid": "36356156",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "Improving antitumor T cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36356156/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u7efc\u5408\u6027\u671f\u520a"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Harrison C"
+      ],
+      "doi": "doi: 10.1038/s41587-024-02321-0",
+      "has_abstract": false,
+      "impact_factor": 44.5,
+      "is_top": true,
+      "issn": "1087-0156",
+      "journal": "Nature biotechnology",
+      "pmid": "38987661",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "CAR-Ts sweep into autoimmunity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38987661/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u751f\u7269\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Duarte JH"
+      ],
+      "doi": "doi: 10.1038/s41587-022-01576-9",
+      "has_abstract": false,
+      "impact_factor": 44.5,
+      "is_top": true,
+      "issn": "1087-0156",
+      "journal": "Nature biotechnology",
+      "pmid": "36347990",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "CAR-T cells tackle autoimmunity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36347990/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u751f\u7269\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [],
+      "doi": "doi: 10.1038/s41587-022-01320-3",
+      "has_abstract": false,
+      "impact_factor": 44.5,
+      "is_top": true,
+      "issn": "1087-0156",
+      "journal": "Nature biotechnology",
+      "pmid": "35577941",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Chimeric antigen receptors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35577941/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u751f\u7269\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [],
+      "doi": "doi: 10.1038/s41587-022-01512-x",
+      "has_abstract": false,
+      "impact_factor": 44.5,
+      "is_top": true,
+      "issn": "1087-0156",
+      "journal": "Nature biotechnology",
+      "pmid": "36207599",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "CAR-T made entirely within the body.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36207599/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u751f\u7269\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [],
+      "doi": "doi: 10.1038/s41587-022-01371-6",
+      "has_abstract": false,
+      "impact_factor": 44.5,
+      "is_top": true,
+      "issn": "1087-0156",
+      "journal": "Nature biotechnology",
+      "pmid": "35705709",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Caribou's first CRISPR CAR-T impresses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35705709/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u751f\u7269\u5b66"
+    },
+    {
+      "abstract": "Chimeric antigen receptor (CAR) -T cell therapy is an efficient therapeutic strategy for specific hematologic malignancies. However, positive outcomes of this novel therapy in treating solid tumors are curtailed by the immunosuppressive tumor microenvironment (TME), wherein signaling of the checkpoint programmed death-1 (PD-1)/PD-L1 directly inhibits T-cell responses. Although checkpoint-targeted immunotherapy succeeds in increasing the number of T cells produced to control tumor growth, the desired effect is mitigated by the action of myeloid-derived suppressor cells (MDSCs) and tumor-associated macrophages (TAMs) in the TME. Previous studies have confirmed that targeting triggering-receptor-expressed on myeloid cells 2 (TREM2) on TAMs and MDSCs enhances the outcomes of anti-PD-1 immunotherapy. We constructed carcinoembryonic antigen (CEA)-specific CAR-T cells for colorectal cancer (CRC)-specific antigens with an autocrine PD-1-TREM2 single-chain variable fragment (scFv) to target the PD-1/PD-L1 pathway, MDSCs and TAMs. We found that the PD-1-TREM2-targeting scFv inhibited the activation of the PD-1/PD-L1 pathway. In addition, these secreted scFvs blocked the binding of ligands to TREM2 receptors present on MDSCs and TAMs, reduced the proportion of MDSCs and TAMs, and enhanced T-cell effector function, thereby mitigating immune resistance in the TME. PD-1-TREM2 scFv-secreting CAR-T cells resulted in highly effective elimination of tumors compared to that achieved with PD-1 scFv-secreting CAR-T therapy in a subcutaneous CRC mouse model. Moreover, the PD-1-TREM2 scFv secreted by CAR-T cells remained localized within tumors and exhibited an extended half-life. Together, these results indicate that PD-1-TREM2 scFv-secreting CAR-T cells have strong potential as an effective therapy for CRC.",
+      "abstract_preview": "Chimeric antigen receptor (CAR) -T cell therapy is an efficient therapeutic strategy for specific hematologic malignancies. However, positive outcomes of this novel therapy in treating solid tumors are curtailed by the immunosuppressive tumor microenvironment (TME), wherein signaling of the checkpoi\u2026",
+      "authors": [
+        "Chen J",
+        "Zhu T",
+        "Jiang G"
+      ],
+      "doi": "doi: 10.1186/s12943-023-01830-x",
+      "has_abstract": true,
+      "impact_factor": 42.2,
+      "is_top": true,
+      "issn": "1476-4598",
+      "journal": "Molecular cancer",
+      "pmid": "37563723",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Target delivery of a PD-1-TREM2 scFv by CAR-T cells enhances anti-tumor efficacy in colorectal cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37563723/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "In recent decades, immune checkpoint blockade and chimeric antigen receptor T cell (CAR-T) therapy are two milestone achievements in clinical immunotherapy. However, both show limited efficacies in most solid neoplasms, which necessitates the exploration of new immunotherapeutic modalities. The failure of CAR-T and immune checkpoint blockade in several solid neoplasms is attributed to multiple factors, including low antigenicity of tumor cells, low infiltration of effector T cells, and diverse mechanisms of immunosuppression in the tumor microenvironment. New adoptive cell therapies have been attempted for solid neoplasms, including TCR-T, CAR-natural killer cells (CAR-NK), and CAR-macrophages (CAR-M). Compared to CAR-T, these new adoptive cell therapies have certain advantages in treating solid neoplasms. In this review, we summarized the 40-year evolution of adoptive cell therapies, then focused on the advances of TCR-T, CAR-NK, and CAR-M in solid neoplasms and discussed their potential clinical applications.",
+      "abstract_preview": "In recent decades, immune checkpoint blockade and chimeric antigen receptor T cell (CAR-T) therapy are two milestone achievements in clinical immunotherapy. However, both show limited efficacies in most solid neoplasms, which necessitates the exploration of new immunotherapeutic modalities. The fail\u2026",
+      "authors": [
+        "Liu Q",
+        "Li J",
+        "Zheng H"
+      ],
+      "doi": "doi: 10.1186/s12943-023-01735-9",
+      "has_abstract": true,
+      "impact_factor": 42.2,
+      "is_top": true,
+      "issn": "1476-4598",
+      "journal": "Molecular cancer",
+      "pmid": "36750830",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Adoptive cellular immunotherapy for solid neoplasms beyond CAR-T.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36750830/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Liu C",
+        "Shah K"
+      ],
+      "doi": "doi: 10.1038/s41563-023-01742-7",
+      "has_abstract": false,
+      "impact_factor": 38.0,
+      "is_top": true,
+      "issn": "1476-1122",
+      "journal": "Nature materials",
+      "pmid": "38036624",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "Taming CAR T cell therapy toxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38036624/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u6750\u6599\u79d1\u5b66"
+    },
+    {
+      "abstract": "The efficacy of immunotherapy is limited by the paucity of T\u00a0cells delivered and infiltrated into the tumors through aberrant tumor vasculature. Here, we report that phosphoglycerate dehydrogenase (PHGDH)-mediated endothelial cell (EC) metabolism fuels the formation of a hypoxic and immune-hostile vascular microenvironment, driving glioblastoma (GBM) resistance to chimeric antigen receptor (CAR)-T cell immunotherapy. Our metabolome and transcriptome analyses of human and mouse GBM tumors identify that PHGDH expression and serine metabolism are preferentially altered in tumor ECs. Tumor microenvironmental cues induce ATF4-mediated PHGDH expression in ECs, triggering a redox-dependent mechanism that regulates endothelial glycolysis and leads to EC overgrowth. Genetic PHGDH ablation in ECs prunes over-sprouting vasculature, abrogates intratumoral hypoxia, and improves T\u00a0cell infiltration into the tumors. PHGDH inhibition activates anti-tumor T\u00a0cell immunity and sensitizes GBM to CAR T therapy. Thus, reprogramming endothelial metabolism by targeting PHGDH may offer a unique opportunity to improve T\u00a0cell-based immunotherapy.",
+      "abstract_preview": "The efficacy of immunotherapy is limited by the paucity of T\u00a0cells delivered and infiltrated into the tumors through aberrant tumor vasculature. Here, we report that phosphoglycerate dehydrogenase (PHGDH)-mediated endothelial cell (EC) metabolism fuels the formation of a hypoxic and immune-hostile v\u2026",
+      "authors": [
+        "Zhang D",
+        "Li AM",
+        "Hu G"
+      ],
+      "doi": "doi: 10.1016/j.cmet.2023.01.010",
+      "has_abstract": true,
+      "impact_factor": 37.0,
+      "is_top": true,
+      "issn": "1550-4131",
+      "journal": "Cell metabolism",
+      "pmid": "36804058",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "PHGDH-mediated endothelial metabolism drives glioblastoma resistance to chimeric antigen receptor T\u00a0cell immunotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36804058/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u751f\u7269\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Castelli S",
+        "Young RM",
+        "June CH"
+      ],
+      "doi": "doi: 10.1038/s41422-022-00745-4",
+      "has_abstract": false,
+      "impact_factor": 31.1,
+      "is_top": true,
+      "issn": "1001-0602",
+      "journal": "Cell research",
+      "pmid": "36329201",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Off-the-shelf CAR T cells to treat cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36329201/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u751f\u7269\u5b66"
+    },
+    {
+      "abstract": "The FDA is investigating reports that BCMA- and CD19-directed autologous chimeric antigen receptor T-cell immunotherapies, which are used to treat a variety of blood cancers, may be causing secondary malignancies. However, the agency and hematologists say the potential benefits of the agents, which have saved thousands of lives, outweigh this risk.",
+      "abstract_preview": "The FDA is investigating reports that BCMA- and CD19-directed autologous chimeric antigen receptor T-cell immunotherapies, which are used to treat a variety of blood cancers, may be causing secondary malignancies. However, the agency and hematologists say the potential benefits of the agents, which \u2026",
+      "authors": [],
+      "doi": "doi: 10.1158/2159-8290.CD-NB2023-0091",
+      "has_abstract": true,
+      "impact_factor": 29.5,
+      "is_top": true,
+      "issn": "2159-8274",
+      "journal": "Cancer discovery",
+      "pmid": "38032843",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "FDA Investigating CAR-Related T-cell Malignancies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38032843/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "A 2022 survey found that only about 25% of patients with multiple myeloma who were waiting for CAR T-cell therapy received the treatment. Manufacturing bottlenecks, such as shortages of viral vectors, limited supply. New approaches for manufacturing and testing the cells could improve their availability, but demand could also soar if they are approved for earlier use in treatment regimens.",
+      "abstract_preview": "A 2022 survey found that only about 25% of patients with multiple myeloma who were waiting for CAR T-cell therapy received the treatment. Manufacturing bottlenecks, such as shortages of viral vectors, limited supply. New approaches for manufacturing and testing the cells could improve their availabi\u2026",
+      "authors": [],
+      "doi": "doi: 10.1158/2159-8290.CD-ND2023-0009",
+      "has_abstract": true,
+      "impact_factor": 29.5,
+      "is_top": true,
+      "issn": "2159-8274",
+      "journal": "Cancer discovery",
+      "pmid": "37819046",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "CAR T-cell Availability for Multiple Myeloma Improving but Still Limited.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37819046/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Vaccine-boosted CAR T cells induce antigen spreading to control antigenically heterogeneous tumors.",
+      "abstract_preview": "Vaccine-boosted CAR T cells induce antigen spreading to control antigenically heterogeneous tumors.",
+      "authors": [],
+      "doi": "doi: 10.1158/2159-8290.CD-RW2023-112",
+      "has_abstract": true,
+      "impact_factor": 29.5,
+      "is_top": true,
+      "issn": "2159-8274",
+      "journal": "Cancer discovery",
+      "pmid": "37449732",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "Vaccine-Boosted CAR T-cell Therapy Elicits Antigen Spreading.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37449732/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "GD2-directed chimeric antigen receptor T cells, designed with two costimulatory domains and a safety switch, helped to shrink tumors in 17 of 27 children with neuroblastoma.",
+      "abstract_preview": "GD2-directed chimeric antigen receptor T cells, designed with two costimulatory domains and a safety switch, helped to shrink tumors in 17 of 27 children with neuroblastoma.",
+      "authors": [],
+      "doi": "doi: 10.1158/2159-8290.CD-NB2023-0025",
+      "has_abstract": true,
+      "impact_factor": 29.5,
+      "is_top": true,
+      "issn": "2159-8274",
+      "journal": "Cancer discovery",
+      "pmid": "37052406",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "CAR T Cells Offer Hope for Neuroblastoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37052406/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "The FDA has approved ciltacabtagene autoleucel (cilta-cel), a chimeric antigen receptor T-cell therapy targeting BCMA, as a fifth-line option for patients with relapsed/refractory multiple myeloma. Cilta-cel is the second agent in its class to get a regulatory thumbs-up in less than a year.",
+      "abstract_preview": "The FDA has approved ciltacabtagene autoleucel (cilta-cel), a chimeric antigen receptor T-cell therapy targeting BCMA, as a fifth-line option for patients with relapsed/refractory multiple myeloma. Cilta-cel is the second agent in its class to get a regulatory thumbs-up in less than a year.",
+      "authors": [],
+      "doi": "doi: 10.1158/2159-8290.CD-NB2022-0019",
+      "has_abstract": true,
+      "impact_factor": 29.5,
+      "is_top": true,
+      "issn": "2159-8274",
+      "journal": "Cancer discovery",
+      "pmid": "35491644",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Cilta-cel OK'd for Multiple Myeloma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35491644/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Natural killer (NK) cells are unique innate immune cells that mediate anti-viral and anti-tumor responses. Thus, they might hold great potential for cancer immunotherapy. NK cell adoptive immunotherapy in humans has shown modest efficacy. In particular, it has failed to demonstrate therapeutic efficiency in the treatment of solid tumors, possibly due in part to the immunosuppressive tumor microenvironment (TME), which reduces NK cell immunotherapy's efficiencies. It is known that immune checkpoints play a prominent role in creating an immunosuppressive TME, leading to NK cell exhaustion and tumor immune escape. Therefore, NK cells must be reversed from their dysfunctional status and increased in their effector roles in order to improve the efficiency of cancer immunotherapy. Blockade of immune checkpoints can not only rescue NK cells from exhaustion but also augment their robust anti-tumor activity. In this review, we discussed immune checkpoint blockade strategies with a focus on chimeric antigen receptor (CAR)-NK cells to redirect NK cells to cancer cells in the treatment of solid tumors.",
+      "abstract_preview": "Natural killer (NK) cells are unique innate immune cells that mediate anti-viral and anti-tumor responses. Thus, they might hold great potential for cancer immunotherapy. NK cell adoptive immunotherapy in humans has shown modest efficacy. In particular, it has failed to demonstrate therapeutic effic\u2026",
+      "authors": [
+        "Ghaedrahmati F",
+        "Esmaeil N",
+        "Abbaspour M"
+      ],
+      "doi": "doi: 10.1002/cac2.12394",
+      "has_abstract": true,
+      "impact_factor": 28.4,
+      "is_top": true,
+      "issn": "2523-3548",
+      "journal": "Cancer communications (London, England)",
+      "pmid": "36585761",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Targeting immune checkpoints: how to use natural killer cells for fighting against solid tumors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36585761/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Maus MV"
+      ],
+      "doi": "doi: 10.1038/s43018-022-00347-4",
+      "has_abstract": false,
+      "impact_factor": 28.0,
+      "is_top": true,
+      "issn": "2662-1347",
+      "journal": "Nature cancer",
+      "pmid": "35288717",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "A decade of CAR T cell evolution.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35288717/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Siddiqi T"
+      ],
+      "doi": "doi: 10.1182/blood.2024025130",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "39115828",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "CARs vs bispecifics: the race is on!",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39115828/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Naik S",
+        "Gottschalk S"
+      ],
+      "doi": "doi: 10.1182/blood.2023022178",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "38206641",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Is immune escape in the rearview mirror?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38206641/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Boardman AP",
+        "Palomba ML"
+      ],
+      "doi": "doi: 10.1182/blood.2023022898",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "38386430",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Does BTKi improve CAR T-cell therapy in MCL?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38386430/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Casucci M"
+      ],
+      "doi": "doi: 10.1182/blood.2024024491",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "38900473",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Putting together the pieces: CAR into CD3\u03b6 locus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38900473/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Chimeric antigen receptor T-cell (CAR T) therapy has produced remarkable clinical responses in B-cell neoplasms. However, many challenges limit this class of agents for the treatment of other cancer types, in particular the lack of tumor-selective antigens for solid tumors and other hematological malignancies, such as acute myeloid leukemia (AML), which may be addressed without significant risk of severe toxicities while providing sufficient abundance for efficient tumor suppression. One approach to overcome this hurdle is dual targeting by an antibody-T-cell receptor (AbTCR) and a chimeric costimulatory signaling receptor (CSR) to 2 different antigens, in which both antigens are found together on the cancer cells but not together on normal cells. To explore this proof of concept in AML, we engineered a new T-cell format targeting Wilms tumor 1 protein (WT1) and CD33; both are highly expressed on most AML cells. Using an AbTCR comprising a newly developed TCR-mimic monoclonal antibody against the WT1 RMFPNAPYL (RMF) epitope/HLA-A2 complex, ESK2, and a secondary CSR comprising a single-chain variable fragment directed to CD33 linked to a truncated CD28 costimulatory fragment, this unique platform confers specific T-cell cytotoxicity to the AML cells while sparing healthy hematopoietic cells, including CD33+ myelomonocytic normal cells. These data suggest that this new platform, named AbTCR-CSR, through the combination of a AbTCR CAR and CSR could be an effective strategy to reduce toxicity and improve specificity and clinical outcomes in adoptive T-cell therapy in AML.",
+      "abstract_preview": "Chimeric antigen receptor T-cell (CAR T) therapy has produced remarkable clinical responses in B-cell neoplasms. However, many challenges limit this class of agents for the treatment of other cancer types, in particular the lack of tumor-selective antigens for solid tumors and other hematological ma\u2026",
+      "authors": [
+        "Dao T",
+        "Xiong G",
+        "Mun SS"
+      ],
+      "doi": "doi: 10.1182/blood.2023021054",
+      "has_abstract": true,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "38048594",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "A dual-receptor T-cell platform with Ab-TCR and costimulatory receptor achieves specificity and potency against AML.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38048594/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Gust J"
+      ],
+      "doi": "doi: 10.1182/blood.2023021860",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "37796518",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "BCMA-CAR T-cell treatment-associated parkinsonism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37796518/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Harousseau JL",
+        "Mohty M"
+      ],
+      "doi": "doi: 10.1182/blood.2022018157",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "36656612",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Sequencing anti-BCMA therapies in myeloma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36656612/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Freeman CL",
+        "Locke FL"
+      ],
+      "doi": "doi: 10.1182/blood.2023021094",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "37733380",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "CARs put age in the rearview mirror.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37733380/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Balke-Want H"
+      ],
+      "doi": "doi: 10.1182/blood.2023020188",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "37166931",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Putting the pedal to the metal: axi-cel for LBCL.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37166931/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Rouce RH",
+        "Nemecek E"
+      ],
+      "doi": "doi: 10.1182/blood.2022018552",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "36757731",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Access offsets poverty in quest for CAR T cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36757731/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Kuipers MT",
+        "Kersten MJ"
+      ],
+      "doi": "doi: 10.1182/blood.2023021853",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "37824160",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "CAR Traffic jam: who can use the fast lane?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37824160/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Velasquez MP",
+        "Mamonkin M"
+      ],
+      "doi": "doi: 10.1182/blood.2022016595",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "35900789",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "CD7 CAR: sword and shield.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35900789/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Spiegel JY",
+        "Komanduri KV"
+      ],
+      "doi": "doi: 10.1182/blood.2021013896",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "35175325",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Treating CAR-T relapses: check not checkmate.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35175325/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Darnell EP",
+        "Jacobson CA"
+      ],
+      "doi": "doi: 10.1182/blood.2022016277",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "35900785",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "German CARs keeping pace.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35900785/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Gower M",
+        "Tikhonova AN"
+      ],
+      "doi": "doi: 10.1182/blood.2022016772",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "35797017",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Avoiding fratricide: a T-ALL order.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35797017/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Gasiorowski R",
+        "Trotman J"
+      ],
+      "doi": "doi: 10.1182/blood.2022017279",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "36006675",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "CAR-T for follicular lymphoma: are we good to go?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36006675/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Wagner DL"
+      ],
+      "doi": "doi: 10.1182/blood.2022016852",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "35951345",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "The uncut version: base-edited allo-CAR T cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35951345/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Chong EA",
+        "Schuster SJ"
+      ],
+      "doi": "doi: 10.1182/blood.2022015802",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "35420689",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "No CNS sanctuary for lymphoma from CAR T.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35420689/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Ghosh N"
+      ],
+      "doi": "doi: 10.1182/blood.2022017564",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "36422859",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Axi-cel in LBCL: fulfill two\u00a0needs with one deed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36422859/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Abramson JS"
+      ],
+      "doi": "doi: 10.1182/blood.2022018295",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "36520475",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Post-CAR relapse in DLBCL: a fork in the road.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36520475/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Themeli M"
+      ],
+      "doi": "doi: 10.1182/blood.2022017935",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "36548020",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Selecting CD7- T cells for CAR T-cell therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36548020/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Auletta JJ"
+      ],
+      "doi": "doi: 10.1182/blood.2022016855",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "35834284",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Buckling up against COVID-19 after CAR T-cell therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35834284/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [],
+      "doi": "doi: 10.1182/blood.2022018917",
+      "has_abstract": false,
+      "impact_factor": 23.9,
+      "is_top": true,
+      "issn": "0006-4971",
+      "journal": "Blood",
+      "pmid": "36520469",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Failure after CAR T-cell treatment in BCL.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36520469/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Impaired cellular metabolism contributes to the age-related decline in T cell function, undermining the response to immunotherapy in older patients with cancer. In a recent study, Hope et al. report that a reduction in intracellular NAD+ levels compromises metabolic fitness and drives immunosenescence. Notably, restoring NAD+ levels can reverse age-related chimeric antigen receptor (CAR)-T deterioration, suggesting a promising 'metabolic immunotherapy' that widely benefits older patients with cancer.",
+      "abstract_preview": "Impaired cellular metabolism contributes to the age-related decline in T cell function, undermining the response to immunotherapy in older patients with cancer. In a recent study, Hope et al. report that a reduction in intracellular NAD+ levels compromises metabolic fitness and drives immunosenescen\u2026",
+      "authors": [
+        "Fan G",
+        "Wang Y",
+        "Wang R"
+      ],
+      "doi": "doi: 10.1016/j.trecan.2025.06.009",
+      "has_abstract": true,
+      "impact_factor": 21.6,
+      "is_top": true,
+      "issn": "2405-8033",
+      "journal": "Trends in cancer",
+      "pmid": "40571557",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Recharging aged-CAR with NAD(+) to boost immunotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40571557/",
+      "year": 2025,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Langer MP"
+      ],
+      "doi": "doi: 10.1148/radiol.2021212161",
+      "has_abstract": false,
+      "impact_factor": 17.6,
+      "is_top": true,
+      "issn": "0033-8419",
+      "journal": "Radiology",
+      "pmid": "34751620",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Radiologic Imaging of CAR T-Cell Therapy: Looking under the Hood to Move Us Forward.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34751620/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Patients with relapsed or refractory multiple myeloma (RRMM) that is refractory to a proteasome inhibitor, an immunomodulatory drug (IMiD), and an anti-CD38 antibody (triple-class refractory MM) have poor outcomes. Recently, 2 classes of T-cell engaging therapies-CAR T-cell therapy and bispecific T-cell engaging antibodies (BsAbs)-have resulted in unprecedented response rates and survival outcomes in these heavily pretreated patients. The most common targets are BCMA and GPRC5D, with other targets in development. The main classes of adverse effects include cytokine release syndrome, neurotoxicity, infections, and cytopenias, as well as adverse effects unique to specific products. As of September 2023, 2 BCMA-targeting CAR-T cell products, 2 BCMA-targeting BsAbs, and 1 GPRC5D-targeting BsAb, are FDA-approved for standard-of-care use in patients with RRMM who received at least 4 prior lines of therapy, including prior treatment with a proteasome inhibitor, an IMiD, and an anti-CD38 antibody. Earlier-line use is under investigation and has shown promising results. Several other investigational CAR-T constructs and bispecific antibodies are in clinical development. As these therapies become more widely used, including in earlier-line setting, efforts to understand optimal sequencing and mitigate toxicities remain critical.",
+      "abstract_preview": "Patients with relapsed or refractory multiple myeloma (RRMM) that is refractory to a proteasome inhibitor, an immunomodulatory drug (IMiD), and an anti-CD38 antibody (triple-class refractory MM) have poor outcomes. Recently, 2 classes of T-cell engaging therapies-CAR T-cell therapy and bispecific T-\u2026",
+      "authors": [
+        "Mikkilineni L",
+        "Sidana S"
+      ],
+      "doi": "doi: 10.6004/jnccn.2023.7100",
+      "has_abstract": true,
+      "impact_factor": 17.5,
+      "is_top": false,
+      "issn": "1540-1405",
+      "journal": "Journal of the National Comprehensive Cancer Network : JNCCN",
+      "pmid": "38081142",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Integrating Immune Therapies for the Treatment of Multiple Myeloma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38081142/",
+      "year": 2023,
+      "zone": 2,
+      "zone_label": "2\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Metabolic disorders mediated chimeric antigen receptor - T cell (CAR-T) exhaustion impaired cancer immunotherapy. Endogenous sulfur dioxide (SO2) derived from L-cysteine catalysis regulated immune cell functions. However, its role in CAR-T cell exhaustion remained unknown. In this study, we identified that SO2 accumulated in the bone marrow microenvironment of relapsed multiple myeloma patients inhibited CD8+ T cell and CAR-T cell infiltration and promoted a transcriptional profile consistent with functional exhaustion, leading to impaired antitumor immunity. Tumor cell derived SO2 altered mitochondrial morphology and disrupted mitochondrial membrane potential in CAR-T cells, accompanied by impaired cytokine secretion and loss of cytotoxic function. Mechanistically, SO2 enhanced interaction of dynamin-related protein 1 (DRP1) and voltage-dependent anion channel 1 and mitochondrial fission via DRP1 sulphenylation at cysteine 607 (Cys607), with abnormal increases in DRP1 GTPase activity, disrupting mitochondrial integrity. Site mutation of Cys607 in CAR-T cells abrogated DRP1 sulphenylation and restored mitochondrial structure and improves antitumor immunity. These findings define a novel redox-mediated mechanism of mitochondrial dysfunction in CAR-T cells exhaustion and identify the SO2-DRP1 axis as a potential therapeutic target to overcome metabolic exhaustion in CAR-T cell therapy.",
+      "abstract_preview": "Metabolic disorders mediated chimeric antigen receptor - T cell (CAR-T) exhaustion impaired cancer immunotherapy. Endogenous sulfur dioxide (SO2) derived from L-cysteine catalysis regulated immune cell functions. However, its role in CAR-T cell exhaustion remained unknown. In this study, we identifi\u2026",
+      "authors": [
+        "Yu Z",
+        "Lin H",
+        "He J"
+      ],
+      "doi": "doi: 10.1016/j.redox.2026.104040",
+      "has_abstract": true,
+      "impact_factor": 16.2,
+      "is_top": true,
+      "issn": "2213-2317",
+      "journal": "Redox biology",
+      "pmid": "41570771",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Multiple myeloma derived sulfur dioxide drives CAR-T cell exhaustion by inducing mitochondrial dysfunction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41570771/",
+      "year": 2026,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u751f\u7269\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Savoldo B",
+        "Grover N",
+        "Dotti G"
+      ],
+      "doi": "doi: 10.1172/JCI177160",
+      "has_abstract": false,
+      "impact_factor": 14.3,
+      "is_top": true,
+      "issn": "0021-9738",
+      "journal": "The Journal of clinical investigation",
+      "pmid": "38226627",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "CAR T cells for hematological malignancies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38226627/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Prostate cancer is generally considered an immunologically \"cold\" tumor type that is insensitive to immunotherapy. Targeting surface antigens on tumors through cellular therapy can induce a potent antitumor immune response to \"heat up\" the tumor microenvironment. However, many antigens expressed on prostate tumor cells are also found on normal tissues, potentially causing on-target, off-tumor toxicities and a suboptimal therapeutic index. Our studies revealed that six-transmembrane epithelial antigen of prostate-2 (STEAP2) was a prevalent prostate cancer antigen that displayed high, homogeneous cell surface expression across all stages of disease with limited distal normal tissue expression, making it ideal for therapeutic targeting. A multifaceted lead generation approach enabled development of an armored STEAP2 chimeric antigen receptor T cell (CAR-T) therapeutic candidate, AZD0754. This CAR-T product was armored with a dominant-negative TGF-\u03b2 type II receptor, bolstering its activity in the TGF-\u03b2-rich immunosuppressive environment of prostate cancer. AZD0754 demonstrated potent and specific cytotoxicity against antigen-expressing cells in vitro despite TGF-\u03b2-rich conditions. Further, AZD0754 enforced robust, dose-dependent in vivo efficacy in STEAP2-expressing cancer cell line-derived and patient-derived xenograft mouse models, and exhibited encouraging preclinical safety. Together, these data underscore the therapeutic tractability of STEAP2 in prostate cancer as well as build confidence in the specificity, potency, and tolerability of this potentially first-in-class CAR-T therapy.",
+      "abstract_preview": "Prostate cancer is generally considered an immunologically \"cold\" tumor type that is insensitive to immunotherapy. Targeting surface antigens on tumors through cellular therapy can induce a potent antitumor immune response to \"heat up\" the tumor microenvironment. However, many antigens expressed on \u2026",
+      "authors": [
+        "Zanvit P",
+        "van Dyk D",
+        "Fazenbaker C"
+      ],
+      "doi": "doi: 10.1172/JCI169655",
+      "has_abstract": true,
+      "impact_factor": 14.3,
+      "is_top": true,
+      "issn": "0021-9738",
+      "journal": "The Journal of clinical investigation",
+      "pmid": "37966111",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Antitumor activity of AZD0754, a dnTGF\u03b2RII-armored, STEAP2-targeted CAR-T cell therapy, in prostate cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37966111/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Chimeric antigen receptor T-cell (CAR-T) therapy has emerged as a highly efficacious treatment modality for refractory and relapsed hematopoietic\u00a0malignancies in recent years. Furthermore, CAR technologies for cancer immunotherapy have expanded from CAR-T to CAR-natural killer cell (CAR-NK), CAR-cytokine-induced killer cell (CAR-CIK), and CAR-macrophage (CAR-M\u03a6) therapy. Nevertheless, the high cost and complex manufacturing processes of ex vivo generation of autologous CAR products have hampered broader application. There is an urgent need to develop an efficient and economical paradigm shift for exploring new sourcing strategies and engineering approaches toward generating CAR-engineered immune cells to benefit cancer patients. Currently, researchers are actively investigating various strategies to optimize the preparation and sourcing of these potent immunotherapeutic agents. In this work, the latest research progress is summarized. Perspectives on the future of CAR-engineered immune cell manufacturing are provided, and the engineering approaches, and diverse sources used for their development are focused upon.",
+      "abstract_preview": "Chimeric antigen receptor T-cell (CAR-T) therapy has emerged as a highly efficacious treatment modality for refractory and relapsed hematopoietic\u00a0malignancies in recent years. Furthermore, CAR technologies for cancer immunotherapy have expanded from CAR-T to CAR-natural killer cell (CAR-NK), CAR-cyt\u2026",
+      "authors": [
+        "Chen Z",
+        "Hu Y",
+        "Mei H"
+      ],
+      "doi": "doi: 10.1002/advs.202303215",
+      "has_abstract": true,
+      "impact_factor": 14.1,
+      "is_top": true,
+      "issn": "2198-3844",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "37906032",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Advances in CAR-Engineered Immune Cell Generation: Engineering Approaches and Sourcing Strategies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37906032/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u7efc\u5408\u6027\u671f\u520a"
+    },
+    {
+      "abstract": "John Maher has worked on CAR T\u00a0cell immunotherapy with a primary focus on solid tumors for over 20 years. In this Q&A, Cell Reports Medicine interviewed him about his journey in this arena and next steps.",
+      "abstract_preview": "John Maher has worked on CAR T\u00a0cell immunotherapy with a primary focus on solid tumors for over 20 years. In this Q&A, Cell Reports Medicine interviewed him about his journey in this arena and next steps.",
+      "authors": [],
+      "doi": "doi: 10.1016/j.xcrm.2022.100595",
+      "has_abstract": true,
+      "impact_factor": 14.0,
+      "is_top": true,
+      "issn": "2666-3791",
+      "journal": "Cell reports. Medicine",
+      "pmid": "35522096",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "John Maher.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35522096/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Treatment options for diffuse large B-cell lymphoma (DLBCL) have expanded, but real-world data on treatment patterns and outcomes remain limited. This study examined real-world outcomes in DLBCL patients treated between 10/1/2015 and 6/30/2024. Patients were stratified by lines of therapy (LOT) and treatments (1L rituximab, cyclophosphamide, doxorubicin, vincristine, prednisone [R-CHOP]; 2L stem cell transplant [SCT]; and chimeric antigen receptor T-cell [CAR T] therapy (any LOT). Variables were reported descriptively. Time-to-event outcomes were assessed using the Kaplan-Meier method. LOT data from 9875 patients were included. R-CHOP-based regimens were the most common 1L treatment (61.7%-67.3% in 2016-2023; 49.4% in 2024). Conventional chemoimmunotherapy use decreased in 2L (81.6% in 2016 to 41.9% in 2024) and 3L (47.6% in 2016 to 22.1% in 2024), while novel therapies increased (43.0% in 2L and 55.9% in 3L in 2024). Median overall survival declined across LOT (1L: 58.1 months; 2L: 30.0 months), as did median time to next treatment (1L: 36.1 months; 2L: 10.6 months). Twelve-month treatment failure rates were 36.0% after 1L, 51.8% after 2L, and 42.2% after CAR T. Among CAR T recipients, 93 received one of 36 distinct subsequent regimens, indicating no standard of care. These findings highlight the unmet needs in DLBCL.",
+      "abstract_preview": "Treatment options for diffuse large B-cell lymphoma (DLBCL) have expanded, but real-world data on treatment patterns and outcomes remain limited. This study examined real-world outcomes in DLBCL patients treated between 10/1/2015 and 6/30/2024. Patients were stratified by lines of therapy (LOT) and \u2026",
+      "authors": [
+        "Shadman M",
+        "Harper JS",
+        "Bokun A"
+      ],
+      "doi": "doi: 10.1038/s41408-025-01412-8",
+      "has_abstract": true,
+      "impact_factor": 13.8,
+      "is_top": true,
+      "issn": "2044-5385",
+      "journal": "Blood cancer journal",
+      "pmid": "41345384",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Real-world treatment patterns and clinical outcomes among patients with diffuse large B-cell lymphoma in a US healthcare claims database.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41345384/",
+      "year": 2025,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Although treatment outcomes of multiple myeloma patients have improved significantly during the last two decades, myeloma is still an incurable disease. There are newly emerging immunotherapies to treat multiple myeloma including monoclonal antibodies, antibody-drug conjugate, bispecific antibodies, and chimeric antigen receptor (CAR) T cell therapy. Impressive response rate and clinical efficacy in heavily pretreated myeloma patients led to the FDA approval of the first myeloma CAR-T therapy in March 2021. Among many different targets for myeloma CAR-T therapies, B Cell Maturation Antigen (BCMA) has been the most successful target so far, but other targets which can be used either for single-target or dual-target CAR-T's are actively being explored. Clinical efficacy and safety of current myeloma CAR-T therapies will be presented here. Potential mechanisms leading to resistance include clearance of CAR-T cells, antigenic escape, and immunosuppressive tumor microenvironment. Novel strategies to enhance myeloma CAR-T will also be described. In this article, we provide a comprehensive review of the current data and the future directions of myeloma CAR-T therapies.",
+      "abstract_preview": "Although treatment outcomes of multiple myeloma patients have improved significantly during the last two decades, myeloma is still an incurable disease. There are newly emerging immunotherapies to treat multiple myeloma including monoclonal antibodies, antibody-drug conjugate, bispecific antibodies,\u2026",
+      "authors": [
+        "Choi T",
+        "Kang Y"
+      ],
+      "doi": "doi: 10.1016/j.pharmthera.2021.108007",
+      "has_abstract": true,
+      "impact_factor": 13.5,
+      "is_top": true,
+      "issn": "0163-7258",
+      "journal": "Pharmacology & therapeutics",
+      "pmid": "34582835",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Chimeric antigen receptor (CAR) T-cell therapy for multiple myeloma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34582835/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "T cells have traditionally been characterized as autonomous killers that eliminate malignant cells through single-cell cytotoxicity. However, recent findings reveal that tumor-reactive T cells frequently form tightly bound clusters on the tumor surface, functioning as cooperative hyper-effector units. These clusters establish stable and reinforced immune synapses, sustain prolonged engagement with tumor targets, and coordinate the delivery of perforin, granzymes, and proinflammatory cytokines. As a result, they exhibit markedly enhanced tumor-killing capacity compared with unbound T cells in both ex vivo assays and murine models. This discovery introduces an essential spatial and mechanical dimension to cancer immunology and challenges the prevailing assumption that molecular phenotype alone defines T-cell efficacy. The implications are substantial, extending to tumor-infiltrating lymphocyte (TIL) therapy optimization, the refinement of immunotherapy biomarkers, and the engineering of next-generation CAR-T and CAR-NK platforms. Enriching or mimicking the behavior of cluster-forming T cells may accelerate clinical responses and overcome barriers associated with solid tumors. Collectively, these insights reposition T-cell clustering as a fundamental determinant of effective antitumor immunity.",
+      "abstract_preview": "T cells have traditionally been characterized as autonomous killers that eliminate malignant cells through single-cell cytotoxicity. However, recent findings reveal that tumor-reactive T cells frequently form tightly bound clusters on the tumor surface, functioning as cooperative hyper-effector unit\u2026",
+      "authors": [
+        "Ma W",
+        "Pham J",
+        "Jamieson C"
+      ],
+      "doi": "doi: 10.1016/j.cytogfr.2025.12.007",
+      "has_abstract": true,
+      "impact_factor": 13.4,
+      "is_top": false,
+      "issn": "1359-6101",
+      "journal": "Cytokine & growth factor reviews",
+      "pmid": "41421921",
+      "pub_type": "\u901a\u8baf",
+      "quartile": "Q1",
+      "title": "Tightly bound T-cell clusters: A new class of hyper-effector tumor killers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41421921/",
+      "year": 2026,
+      "zone": 2,
+      "zone_label": "2\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Chimeric antigen receptor (CAR) T-cell (CAR-T) therapy is a transformative modality in cancer immunotherapy that employs genetically engineered T-cells to eliminate malignant cells selectively. Its efficacy and limitations are governed by cytokine- and growth factor-mediated signaling networks that shape T-cell activation, proliferation, differentiation, and persistence. This review traces the molecular evolution of CAR-T architecture across generations, highlighting how synthetic modulation of cytokine and co-stimulatory pathways enhances potency while reducing exhaustion and toxicity. We discuss strategies that incorporate cytokine engineering, metabolic reprogramming, and logic-gated activation to counteract the immunosuppressive tumor microenvironment. Recent technological advances-such as clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated protein 9 (CRISPR/Cas9)-based cytokine pathway editing, induced pluripotent stem cell (iPSC)-derived \"off-the-shelf\" CAR-T platforms, and extracellular vesicle (EV)-mediated cytokine delivery-are reshaping adoptive immunotherapy. Framing CAR-T development through the lens of cytokine and growth factor biology, we outline how integrating these pathways enables safer, more durable, and scalable next-generation therapies for hematologic and solid tumors.",
+      "abstract_preview": "Chimeric antigen receptor (CAR) T-cell (CAR-T) therapy is a transformative modality in cancer immunotherapy that employs genetically engineered T-cells to eliminate malignant cells selectively. Its efficacy and limitations are governed by cytokine- and growth factor-mediated signaling networks that \u2026",
+      "authors": [
+        "Co\u015far B",
+        "K\u0131l\u0131\u00e7 P",
+        "\u0130\u015feri \u00d6D"
+      ],
+      "doi": "doi: 10.1016/j.cytogfr.2025.11.001",
+      "has_abstract": true,
+      "impact_factor": 13.4,
+      "is_top": false,
+      "issn": "1359-6101",
+      "journal": "Cytokine & growth factor reviews",
+      "pmid": "41330004",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "The intersection of CAR-T immunotherapy with emerging technologies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41330004/",
+      "year": 2025,
+      "zone": 2,
+      "zone_label": "2\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Oncolytic virotherapy has become an important branch of cancer immunotherapy. This study investigated the efficacy of an oncolytic adenovirus (OAV), OncoViron, with synergistic mechanisms in the treatment of multiple solid tumors. An OAV, OncoViron, was constructed and investigated by cytological experiments and implanted tumor models of multiple solid tumor cell lines to certify its anticancer efficacy, the synergistic effects of viral oncolysis and transgene anticancer activity of OncoViron, as well as oncolytic virotherapy combined with immunotherapy, were also verified. The selective replication of OncoViron mediated high expression of anticancer factors, specifically targeted a variety of solid tumors and significantly inhibited cancer cell proliferation. On a variety of implanted solid tumor models in immunodeficient mice, immunocompetent mice, and humanized mice, OncoViron showed great anticancer effects on its own and in combination with programmed death 1 (PD-1) antibody and chimeric antigen receptor (CAR) T cells. Pathological examination, single-cell sequencing, and spatial transcriptome analysis of animal implanted tumor specimens confirmed that OncoViron significantly altered the gene expression profile of infected cancer cells, not only recruiting a large number of lymphocytes, natural killer cells, and mononuclear macrophages into tumor microenvironment (TME) and activated immune cells, especially T cells but also inducing M1 polarization of macrophages and promoting the release of more immune cytokines, thereby remodeling the TME for coordinating PD-1 antibody or CAR T therapy. The chimeric OncoViron is a novel broad-spectrum anticancer product with multiple mechanisms of synergistic and potentiated immunotherapy, creating a good opportunity for combined immunotherapy against solid tumors.",
+      "abstract_preview": "Oncolytic virotherapy has become an important branch of cancer immunotherapy. This study investigated the efficacy of an oncolytic adenovirus (OAV), OncoViron, with synergistic mechanisms in the treatment of multiple solid tumors. An OAV, OncoViron, was constructed and investigated by cytological ex\u2026",
+      "authors": [
+        "Su Y",
+        "Li J",
+        "Ji W"
+      ],
+      "doi": "doi: 10.1136/jitc-2022-004691",
+      "has_abstract": true,
+      "impact_factor": 11.7,
+      "is_top": true,
+      "issn": "2051-1426",
+      "journal": "Journal for immunotherapy of cancer",
+      "pmid": "35609942",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Triple-serotype chimeric oncolytic adenovirus exerts multiple synergistic mechanisms against solid tumors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35609942/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Hill LC",
+        "Smith M"
+      ],
+      "doi": "doi: 10.1056/EVIDe2400022",
+      "has_abstract": false,
+      "impact_factor": 11.6,
+      "is_top": false,
+      "issn": "2766-5526",
+      "journal": "NEJM evidence",
+      "pmid": "38805616",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "An Assessment of CAR-T Cell Therapy Utilization among Racial and Ethnic Minority Patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38805616/",
+      "year": 2024,
+      "zone": null,
+      "zone_label": "\u672a\u6536\u5f55",
+      "zone_name": ""
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Kale B",
+        "Khosravi-Maharlooei M",
+        "Perna F"
+      ],
+      "doi": "doi: 10.1016/j.ymthe.2024.01.014",
+      "has_abstract": false,
+      "impact_factor": 11.4,
+      "is_top": true,
+      "issn": "1525-0016",
+      "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+      "pmid": "38244538",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Shifting gears with CAR T cells for autoimmune diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38244538/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Chimeric antigen receptor T\u00a0cells (CAR-T) therapy has shown great potential in tumor treatment. However, many factors impair the efficacy of CAR-T therapy, such as antigenic heterogeneity and loss, limited potency and persistence, poor infiltration capacity, and a suppressive tumor microenvironment. To overcome these obstacles, recent studies have reported a new generation of CAR-T cells expressing cytokines called armored CAR-T, TRUCK-T, or the fourth-generation CAR-T. Here we summarize the strategies of arming CAR-T cells with natural or synthetic cytokine signals to enhance their anti-tumor capacity. Moreover, we summarize the advances in CAR-T cells expressing non-cytokine proteins, such as membrane receptors, antibodies, enzymes, co-stimulatory molecules, and transcriptional factors. Furthermore, we discuss several prospective strategies for armored CAR-T therapy development. Altogether, these ideas may provide new insights for the innovations of the next-generation CAR-T therapy.",
+      "abstract_preview": "Chimeric antigen receptor T\u00a0cells (CAR-T) therapy has shown great potential in tumor treatment. However, many factors impair the efficacy of CAR-T therapy, such as antigenic heterogeneity and loss, limited potency and persistence, poor infiltration capacity, and a suppressive tumor microenvironment.\u2026",
+      "authors": [
+        "Tang L",
+        "Pan S",
+        "Wei X"
+      ],
+      "doi": "doi: 10.1016/j.ymthe.2023.09.021",
+      "has_abstract": true,
+      "impact_factor": 11.4,
+      "is_top": true,
+      "issn": "1525-0016",
+      "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+      "pmid": "37803832",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Arming CAR-T cells with cytokines and more: Innovations in the fourth-generation CAR-T development.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37803832/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Tertiary lymphoid structures (TLSs) in tumor tissues facilitate immune cell trafficking and cytotoxicity, which benefits survival and favorable responses in immune therapy. Here, we observed a high correlation of tumor necrosis factor superfamily member 14 (LIGHT) expression with TLS signature genes, which are all markers for immune cell accumulation and better prognosis, through retrieving RNA sequencing (RNA-seq) data from patients with cancer, suggesting the potential of LIGHT in reconstituting a high immune-infiltrated tumor microenvironment. Accordingly, LIGHT co-expressed chimeric antigen receptor T (LIGHT CAR-T) cells not only showed enhanced cytotoxicity and cytokine production but also improved CCL19 and CCL21 expression by surrounding cells. And the supernatant of LIGHT CAR-T cells promoted T\u00a0cell migration in a paracrine manner. Furthermore, LIGHT CAR-T cells showed superior anti-tumor efficacy and improved infiltration in comparison with conventional CAR-T cells in immunodeficient NSG mice. Accordingly, murine LIGHT-OT-1 T\u00a0cells normalized tumor blood vessels and enforced intratumoral lymphoid structures in C57BL/6 syngeneic tumor mouse models, implying the potential of LIGHT CAR-T in clinical application. Taken together, our data revealed a straightforward strategy to optimize trafficking and cytotoxicity of CAR-T cells by redirecting TLSs through LIGHT expression, which has great potential to expand and optimize the application of CAR-T therapy in solid tumors.",
+      "abstract_preview": "Tertiary lymphoid structures (TLSs) in tumor tissues facilitate immune cell trafficking and cytotoxicity, which benefits survival and favorable responses in immune therapy. Here, we observed a high correlation of tumor necrosis factor superfamily member 14 (LIGHT) expression with TLS signature genes\u2026",
+      "authors": [
+        "Zhang N",
+        "Liu X",
+        "Qin J"
+      ],
+      "doi": "doi: 10.1016/j.ymthe.2023.06.015",
+      "has_abstract": true,
+      "impact_factor": 11.4,
+      "is_top": true,
+      "issn": "1525-0016",
+      "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+      "pmid": "37408308",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "LIGHT/TNFSF14 promotes CAR-T cell trafficking and cytotoxicity through reversing immunosuppressive tumor microenvironment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37408308/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Glioblastoma (GBM) is the most aggressive primary malignant brain cancer and urgently requires effective treatments. Chimeric antigen receptor T (CAR-T) cell therapy offers a potential treatment method, but it is often hindered by poor infiltration of CAR-T cells in tumors and highly immunosuppressive tumor microenvironment (TME). Here, we armed an oncolytic adenovirus (oAds) with a chemokine CXCL11 to increase the infiltration of CAR-T cells and reprogram the immunosuppressive TME, thus improving its therapeutic efficacy. In both immunodeficient and immunocompetent orthotopic GBM mice models, we showed that B7H3-targeted CAR-T cells alone failed to inhibit GBM growth but, when combined with the intratumoral administration of CXCL11-armed oAd, it achieved a durable antitumor response. Besides, oAd-CXCL11 had a potent antitumor effect and reprogramed the immunosuppressive TME in GL261 GBM models, in which increased infiltration of CD8+ T lymphocytes, natural killer (NK) cells, and M1-polarized macrophages, while decreased proportions of myeloid-derived suppressor cells (MDSCs), regulatory T\u00a0cells (Tregs) and M2-polarized macrophages were observed. Furthermore, the antitumor effect of the oAd-CXCL11 was CD8+ T\u00a0cell dependent. Our findings thus revealed that CXCL11-armed oAd can improve immune-virotherapy and can be a promising adjuvant of CAR-T therapy for GBM.",
+      "abstract_preview": "Glioblastoma (GBM) is the most aggressive primary malignant brain cancer and urgently requires effective treatments. Chimeric antigen receptor T (CAR-T) cell therapy offers a potential treatment method, but it is often hindered by poor infiltration of CAR-T cells in tumors and highly immunosuppressi\u2026",
+      "authors": [
+        "Wang G",
+        "Zhang Z",
+        "Zhong K"
+      ],
+      "doi": "doi: 10.1016/j.ymthe.2022.08.021",
+      "has_abstract": true,
+      "impact_factor": 11.4,
+      "is_top": true,
+      "issn": "1525-0016",
+      "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+      "pmid": "36056553",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "CXCL11-armed oncolytic adenoviruses enhance CAR-T cell therapeutic efficacy and reprogram tumor microenvironment in glioblastoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36056553/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Schorr C",
+        "Perna F"
+      ],
+      "doi": "doi: 10.1016/j.ymthe.2023.02.006",
+      "has_abstract": false,
+      "impact_factor": 11.4,
+      "is_top": true,
+      "issn": "1525-0016",
+      "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+      "pmid": "36803952",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Tailoring CAR T\u00a0cell technology for T\u00a0cell leukemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36803952/",
+      "year": 2023,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Chimeric antigen receptor (CAR) T\u00a0cell therapy has created a paradigm shift in the treatment of hematologic malignancies but has not been as effective toward solid tumors. For such tumors, the primary obstacles facing CAR T\u00a0cells are scarcity of tumor-specific antigens and the hostile and complex tumor microenvironment. Glycosylation, the process by which sugars are post-translationally added to proteins or lipids, is profoundly dysregulated in cancer. Abnormally glycosylated glycoproteins expressed on cancer cells offer unique targets for CAR T therapy as they are specific to tumor cells. Tumor stromal cells also express abnormal glycoproteins and thus also have the potential to be targeted by glycan-binding CAR T\u00a0cells. This review will discuss the state of CAR T\u00a0cells in the therapy of solid tumors, the cancer glycoproteome and its potential for use as a therapeutic target, and the landscape and future of glycan-binding CAR T\u00a0cell therapy.",
+      "abstract_preview": "Chimeric antigen receptor (CAR) T\u00a0cell therapy has created a paradigm shift in the treatment of hematologic malignancies but has not been as effective toward solid tumors. For such tumors, the primary obstacles facing CAR T\u00a0cells are scarcity of tumor-specific antigens and the hostile and complex tu\u2026",
+      "authors": [
+        "Raglow Z",
+        "McKenna MK",
+        "Bonifant CL"
+      ],
+      "doi": "doi: 10.1016/j.ymthe.2022.07.006",
+      "has_abstract": true,
+      "impact_factor": 11.4,
+      "is_top": true,
+      "issn": "1525-0016",
+      "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+      "pmid": "35821636",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Targeting glycans for CAR therapy: The advent of sweet CARs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35821636/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Glioblastoma (GBM) is one of the most lethal central nervous systems (CNS) tumours in adults. As supplements to standard of care (SOC), various immunotherapies improve the therapeutic effect in other cancers. Among them, tumour vaccines can serve as complementary monotherapy or boost the clinical efficacy with other immunotherapies, such as immune checkpoint blockade (ICB) and chimeric antigen receptor T cells (CAR-T) therapy. Previous studies in GBM therapeutic vaccines have suggested that few neoantigens could be targeted in GBM due to low mutation burden, and single-peptide therapeutic vaccination had limited efficacy in tumour control as monotherapy. Combining diverse antigens, including neoantigens, tumour-associated antigens (TAAs), and pathogen-derived antigens, and optimizing vaccine design or vaccination strategy may help with clinical efficacy improvement. In this review, we discussed current GBM therapeutic vaccine platforms, evaluated and potential antigenic targets, current challenges, and perspective opportunities for efficacy improvement.",
+      "abstract_preview": "Glioblastoma (GBM) is one of the most lethal central nervous systems (CNS) tumours in adults. As supplements to standard of care (SOC), various immunotherapies improve the therapeutic effect in other cancers. Among them, tumour vaccines can serve as complementary monotherapy or boost the clinical ef\u2026",
+      "authors": [
+        "Xiong Z",
+        "Raphael I",
+        "Olin M"
+      ],
+      "doi": "doi: 10.1016/j.ebiom.2023.104963",
+      "has_abstract": true,
+      "impact_factor": 11.2,
+      "is_top": true,
+      "issn": "2352-3964",
+      "journal": "EBioMedicine",
+      "pmid": "38183840",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Glioblastoma vaccines: past, present, and opportunities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38183840/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Chimeric antigen receptor (CAR)-T cell immunotherapy has revolutionized cancer therapy for some advanced cancers, but success is predicated on identifying the correct cell surface target. In a recent article, the authors leveraged the cancer stem cell surface antigen CD133 to develop a CAR-T therapy for brain metastasis. See related article by Kieliszek et al., p. 554.",
+      "abstract_preview": "Chimeric antigen receptor (CAR)-T cell immunotherapy has revolutionized cancer therapy for some advanced cancers, but success is predicated on identifying the correct cell surface target. In a recent article, the authors leveraged the cancer stem cell surface antigen CD133 to develop a CAR-T therapy\u2026",
+      "authors": [
+        "Sloan AR",
+        "Thapliyal M",
+        "Lathia JD"
+      ],
+      "doi": "doi: 10.1158/1078-0432.CCR-23-3051",
+      "has_abstract": true,
+      "impact_factor": 10.9,
+      "is_top": true,
+      "issn": "1078-0432",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pmid": "38038689",
+      "pub_type": "\u8bc4\u8bba",
+      "quartile": "Q1",
+      "title": "New T-Cell Therapies for Brain Metastasis, CD133 in the Driver's Seat.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38038689/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Microplastics (MPs) are increasingly recognized as contaminants present in various environments and are widely acknowledged as potential hazards to the mammalian immune system. In our study of chimeric antigen receptor T cell (CAR-T) therapy, we observed the presence of MP in CAR-T cell products for the first time. It is worth exploring whether MP could enter CAR-T cells and how they might affect CAR-T cells' functionality. Therefore, we analyzed how MP affected CD19 and BCMA-CAR-T cells. Based on flow cytometry, ELISA, and cytotoxicity analysis of in vitro and in vivo experiments, MP suppressed the activity of CAR-T cells. Subsequent investigation revealed that the exposure of CAR-T cells to varying concentrations of MP resulted in a notable increase in apoptosis, ferroptosis, and exhaustion levels. Furthermore, the hyperactivation of the mTOR signaling pathway in MP-treated CAR-T cells was verified. The partial restoration of CAR-T cell function in MP was achieved by inhibiting the mTOR pathway. MP present a threat to CAR-T cell function due to their role in inducing CAR-T cell apoptosis, ferroptosis, and T-cell exhaustion through the hyperactivation of mTOR signaling pathways.",
+      "abstract_preview": "Microplastics (MPs) are increasingly recognized as contaminants present in various environments and are widely acknowledged as potential hazards to the mammalian immune system. In our study of chimeric antigen receptor T cell (CAR-T) therapy, we observed the presence of MP in CAR-T cell products for\u2026",
+      "authors": [
+        "Yin Z",
+        "Huang Y",
+        "Zhu Y"
+      ],
+      "doi": "doi: 10.1016/j.jhazmat.2024.136351",
+      "has_abstract": true,
+      "impact_factor": 10.6,
+      "is_top": true,
+      "issn": "0304-3894",
+      "journal": "Journal of hazardous materials",
+      "pmid": "39488976",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Identification and analysis of microplastic aggregation in CAR-T cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39488976/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u73af\u5883\u79d1\u5b66\u4e0e\u751f\u6001\u5b66"
+    },
+    {
+      "abstract": "Despite the success of vaccination and small-molecule antivirals in significantly reducing mortality from acute viral infections, chronic viral infections such as human immunodeficiency virus (HIV), hepatitis B virus (HBV), cytomegalovirus (CMV), and Epstein\u2013Barr virus (EBV) remain persistent global health burdens. Latent reservoirs, drug resistance mutations, and immune evasion mechanisms enable these viruses to persist, highlighting the need for novel therapeutic approaches. Chimeric antigen receptor T-cell (CAR-T) therapy is an emerging immunotherapeutic strategy, initially developed to treat cancer, that harnesses a patient\u2019s own immune cells to induce targeted immune responses. Chronic viral infections share significant similarities with tumors, including immune cell exhaustion, expression of inhibitory ligands, and metabolic suppression. Consequently, CAR-T-cell therapy holds promise as a new approach to treating chronic viral infections and has attracted considerable attention in recent years. This review systematically evaluates the progress in using CAR-T-cell therapy to treat chronic infections caused by HIV, HBV, CMV, and EBV, focusing on target selection and CAR-T-cell design strategies and highlighting the potential of these approaches to achieve disease control.",
+      "abstract_preview": "Despite the success of vaccination and small-molecule antivirals in significantly reducing mortality from acute viral infections, chronic viral infections such as human immunodeficiency virus (HIV), hepatitis B virus (HBV), cytomegalovirus (CMV), and Epstein\u2013Barr virus (EBV) remain persistent global\u2026",
+      "authors": [
+        "Han Q",
+        "Zhang X",
+        "Chen L"
+      ],
+      "doi": "doi: 10.1186/s12967-025-07582-0",
+      "has_abstract": true,
+      "impact_factor": 9.7,
+      "is_top": true,
+      "issn": "1479-5876",
+      "journal": "Journal of translational medicine",
+      "pmid": "41535864",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Chimeric antigen receptor T\u2011cell therapy in chronic viral infections: a review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41535864/",
+      "year": 2026,
+      "zone": 2,
+      "zone_label": "2\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Traditional cancer treatments use nonspecific drugs and monoclonal antibodies to target tumor cells. Chimeric antigen receptor (CAR)-T cell therapy, however, leverages the immune system's T-cells to recognize and attack tumor cells. T-cells are isolated from patients and modified to target tumor-associated antigens. CAR-T therapy has achieved FDA approval for treating blood cancers like B-cell acute lymphoblastic leukemia, large B-cell lymphoma, and multiple myeloma by targeting CD-19 and B-cell maturation antigens. Bi-specific chimeric antigen receptors may contribute to mitigating tumor antigen escape, but their efficacy could be limited in cases where certain tumor cells do not express the targeted antigens. Despite success in blood cancers, CAR-T technology faces challenges in solid tumors, including lack of reliable tumor-associated antigens, hypoxic cores, immunosuppressive tumor environments, enhanced reactive oxygen species, and decreased T-cell infiltration. To overcome these challenges, current research aims to identify reliable tumor-associated antigens and develop cost-effective, tumor microenvironment-specific CAR-T cells. This review covers the evolution of CAR-T therapy against various tumors, including hematological and solid tumors, highlights challenges faced by CAR-T cell therapy, and suggests strategies to overcome these obstacles, such as utilizing single-cell RNA sequencing and artificial intelligence to optimize clinical-grade CAR-T cells.",
+      "abstract_preview": "Traditional cancer treatments use nonspecific drugs and monoclonal antibodies to target tumor cells. Chimeric antigen receptor (CAR)-T cell therapy, however, leverages the immune system's T-cells to recognize and attack tumor cells. T-cells are isolated from patients and modified to target tumor-ass\u2026",
+      "authors": [
+        "Dagar G",
+        "Gupta A",
+        "Masoodi T"
+      ],
+      "doi": "doi: 10.1186/s12967-023-04292-3",
+      "has_abstract": true,
+      "impact_factor": 9.7,
+      "is_top": true,
+      "issn": "1479-5876",
+      "journal": "Journal of translational medicine",
+      "pmid": "37420216",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Harnessing the potential of CAR-T cell therapy: progress, challenges, and future directions in hematological and solid tumor treatments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37420216/",
+      "year": 2023,
+      "zone": 2,
+      "zone_label": "2\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Remarkable improvement relative to traditional approaches in the treatment of hematological malignancies by chimeric antigen receptor (CAR) T-cell therapy has promoted sequential approvals of eight commercial CAR T products within last 5 years. Although CAR T cells' productization is now rapidly boosting their extensive clinical application in real-world patients, the limitation of their clinical efficacy and related toxicities inspire further optimization of CAR structure and substantial development of innovative trials in various scenarios. Herein, we first summarized the current status and major progress in CAR T therapy for hematological malignancies, then described crucial factors which possibly compromise the clinical efficacies of CAR T cells, such as CAR T cell exhaustion and loss of antigen, and finally, we discussed the potential optimization strategies to tackle the challenges in the field of CAR T therapy.",
+      "abstract_preview": "Remarkable improvement relative to traditional approaches in the treatment of hematological malignancies by chimeric antigen receptor (CAR) T-cell therapy has promoted sequential approvals of eight commercial CAR T products within last 5 years. Although CAR T cells' productization is now rapidly boo\u2026",
+      "authors": [
+        "Zhang Y",
+        "Xu Y",
+        "Dang X"
+      ],
+      "doi": "doi: 10.1097/CM9.0000000000002476",
+      "has_abstract": true,
+      "impact_factor": 9.1,
+      "is_top": false,
+      "issn": "0366-6999",
+      "journal": "Chinese medical journal",
+      "pmid": "36848181",
+      "pub_type": "\u7814\u7a76\u8bba\u6587",
+      "quartile": "Q1",
+      "title": "Challenges and optimal strategies of CAR T therapy for hematological malignancies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36848181/",
+      "year": 2023,
+      "zone": 2,
+      "zone_label": "2\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Susanibar Adaniya S",
+        "Stadtmauer EA",
+        "Cohen AD"
+      ],
+      "doi": "doi: 10.1038/s41375-022-01539-8",
+      "has_abstract": false,
+      "impact_factor": 8.8,
+      "is_top": true,
+      "issn": "0887-6924",
+      "journal": "Leukemia",
+      "pmid": "35351984",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "CAR T cell therapy for multiple myeloma: What have we learned?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35351984/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Gastric cancer, a prevalent malignancy worldwide, ranks sixth in terms of frequency and third in fatality, causing over a million new cases and 769000 annual deaths. Predominant in Eastern Europe and Eastern Asia, risk factors include family medical history, dietary habits, tobacco use, Helicobacter pylori, and Epstein-Barr virus infections. Unfortunately, gastric cancer is often diagnosed at an advanced stage, leading to a grim prognosis, with a 5-year overall survival rate below 5%. Surgical intervention, particularly with D2 Lymphadenectomy, is the mainstay for early-stage cases but offers limited success. For advanced cases, the National Comprehensive Cancer Network recommends chemotherapy, radiation, and targeted therapy. Emerging immunotherapy presents promise, especially for unresectable or metastatic cases, with strategies like immune checkpoint inhi-bitors, tumor vaccines, adoptive immunotherapy, and nonspecific immunomodulators. In this Editorial, with regards to the article \"Advances and key focus areas in gastric cancer immunotherapy: A comprehensive scientometric and clinical trial review\", we address the advances in the field of immunotherapy in gastric cancer and its future prospects.",
+      "abstract_preview": "Gastric cancer, a prevalent malignancy worldwide, ranks sixth in terms of frequency and third in fatality, causing over a million new cases and 769000 annual deaths. Predominant in Eastern Europe and Eastern Asia, risk factors include family medical history, dietary habits, tobacco use, Helicobacter\u2026",
+      "authors": [
+        "Christodoulidis G",
+        "Koumarelas KE",
+        "Kouliou MN"
+      ],
+      "doi": "doi: 10.3748/wjg.v30.i4.286",
+      "has_abstract": true,
+      "impact_factor": 7.7,
+      "is_top": false,
+      "issn": "1007-9327",
+      "journal": "World journal of gastroenterology",
+      "pmid": "38313231",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Revolutionizing gastric cancer treatment: The potential of immunotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38313231/",
+      "year": 2024,
+      "zone": 3,
+      "zone_label": "3\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Derman BA"
+      ],
+      "doi": "doi: 10.1182/bloodadvances.2023012244",
+      "has_abstract": false,
+      "impact_factor": 7.7,
+      "is_top": true,
+      "issn": "2473-9529",
+      "journal": "Blood advances",
+      "pmid": "38411994",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Maybe you can't drive this CAR?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38411994/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Crombie JL",
+        "Jacobson CA"
+      ],
+      "doi": "doi: 10.1182/bloodadvances.2023012078",
+      "has_abstract": false,
+      "impact_factor": 7.7,
+      "is_top": true,
+      "issn": "2473-9529",
+      "journal": "Blood advances",
+      "pmid": "38261329",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Checkpoints: roadblocks or repairs for the CAR-T journey?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38261329/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Nooka AK",
+        "Hartley-Brown MA",
+        "Anderson KC"
+      ],
+      "doi": "doi: 10.1182/bloodadvances.2023011659",
+      "has_abstract": false,
+      "impact_factor": 7.7,
+      "is_top": true,
+      "issn": "2473-9529",
+      "journal": "Blood advances",
+      "pmid": "38194242",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Shrinking the divide: improving myeloma CART access.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38194242/",
+      "year": 2024,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "",
+      "abstract_preview": "",
+      "authors": [
+        "Conway Morris A"
+      ],
+      "doi": "doi: 10.1097/CCM.0000000000005153",
+      "has_abstract": false,
+      "impact_factor": 7.5,
+      "is_top": true,
+      "issn": "0090-3493",
+      "journal": "Critical care medicine",
+      "pmid": "34914647",
+      "pub_type": "\u793e\u8bba",
+      "quartile": "Q1",
+      "title": "Chimeric Antigen Receptor T Cells, the Shock of the New.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34914647/",
+      "year": 2022,
+      "zone": 1,
+      "zone_label": "1\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Chimeric antigen receptor T-cell (CAR-T) therapy has transformed the management of relapsed/refractory B-cell lymphomas, yet its initial use in central nervous system lymphoma has been hampered by safety concerns and limited efficacy. Current data are derived from small, heterogeneous trials, with unresolved questions regarding neurotoxicity mitigation, optimal treatment timing, long-term response durability, and predictive biomarkers, precluding widespread clinical implementation. This narrative review systematically integrates peer-reviewed clinical trials, real-world retrospective datasets and preclinical mechanistic investigations to summarize the efficacy and safety profile of CAR-T in patients with PCNSL and SCNSL.",
+      "abstract_preview": "Chimeric antigen receptor T-cell (CAR-T) therapy has transformed the management of relapsed/refractory B-cell lymphomas, yet its initial use in central nervous system lymphoma has been hampered by safety concerns and limited efficacy. Current data are derived from small, heterogeneous trials, with u\u2026",
+      "authors": [
+        "Feng X",
+        "Yang J",
+        "Xu X"
+      ],
+      "doi": "doi: 10.3389/fimmu.2026.1858455",
+      "has_abstract": true,
+      "impact_factor": 7.0,
+      "is_top": false,
+      "issn": "1664-3224",
+      "journal": "Frontiers in immunology",
+      "pmid": "42699265",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Advances in CAR-T therapy for central nervous system lymphoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699265/",
+      "year": 2026,
+      "zone": 2,
+      "zone_label": "2\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "CAR-T therapy, an innovative immunotherapeutic approach, genetically modifies T cells to express CARs, enabling targeted destruction of specific antigen-expressing cells. Initially developed for oncology, CAR-T therapy has shown significant potential in treating autoimmune diseases. By targeting CD19+ B cells, CAR-T therapy has demonstrated rapid and sustained remission in refractory cases, with studies showing normalized laboratory parameters and reduced disease activity. At the same time, CAR-NK, CAAR-T and CAR-Treg technologies further broaden therapeutic strategies. However, some adverse effects also exist, including CRS, ICANS and so on. Despite these challenges, CAR therapy represents a promising advancement in autoimmune disease treatment, with ongoing research aimed at enhancing efficacy, durability, and safety. Continuous innovation is essential to address limitations and optimize therapeutic outcomes.",
+      "abstract_preview": "CAR-T therapy, an innovative immunotherapeutic approach, genetically modifies T cells to express CARs, enabling targeted destruction of specific antigen-expressing cells. Initially developed for oncology, CAR-T therapy has shown significant potential in treating autoimmune diseases. By targeting CD1\u2026",
+      "authors": [
+        "Wu Y",
+        "Han L",
+        "Wang Y"
+      ],
+      "doi": "doi: 10.3389/fimmu.2025.1625166",
+      "has_abstract": true,
+      "impact_factor": 7.0,
+      "is_top": false,
+      "issn": "1664-3224",
+      "journal": "Frontiers in immunology",
+      "pmid": "40881712",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "CAR-T therapy: pioneering a new era in the treatment of autoimmune diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40881712/",
+      "year": 2025,
+      "zone": 2,
+      "zone_label": "2\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Neuroendocrine neoplasms (NENs) represent a heterogeneous group of malignancies. In metastatic and progressive forms, standard therapies are often ineffective. CAR-T therapy, which has demonstrated remarkable efficacy in hematologic malignancies, is considered a promising approach for NEN treatment, despite significant barriers inherent to solid tumors. This review aims to comprehensively analyze and systematize current scientific data on the development of CAR-T therapy for NENs of various origins. It focuses on relevant molecular targets, preclinical findings demonstrating the efficacy and safety profiles of CAR-T cells directed against potential targets, and the current status of early-phase (I/II) clinical trials for CAR-T therapy in NENs. The review examines major barriers to CAR-T therapy in solid tumors, including NENs, and presents innovative strategies to overcome them. Further research and clinical trials focusing on therapy personalization, enhanced safety and efficacy, and the development of combination approaches are essential for the successful integration of CAR-T therapy into clinical practice and for improving outcomes in patients with treatment-refractory NENs.",
+      "abstract_preview": "Neuroendocrine neoplasms (NENs) represent a heterogeneous group of malignancies. In metastatic and progressive forms, standard therapies are often ineffective. CAR-T therapy, which has demonstrated remarkable efficacy in hematologic malignancies, is considered a promising approach for NEN treatment,\u2026",
+      "authors": [
+        "Golounina O",
+        "Minniakhmetov I",
+        "Khusainova R"
+      ],
+      "doi": "doi: 10.3389/fimmu.2025.1695716",
+      "has_abstract": true,
+      "impact_factor": 7.0,
+      "is_top": false,
+      "issn": "1664-3224",
+      "journal": "Frontiers in immunology",
+      "pmid": "41200177",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "CAR-T therapy for neuroendocrine neoplasms: a review of molecular targets and clinical translation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41200177/",
+      "year": 2025,
+      "zone": 2,
+      "zone_label": "2\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Adoptive T cell transfer has emerged as a pillar of modern cancer immunotherapy. Propelled by viral and non-viral-based technologies, such as CRISPR-Cas9, genetic engineering offers novel opportunities for both emerging cellular therapies and the improvement of more established approaches such as chimeric antigen receptor (CAR) modified T cells. First-generation genetically modified T-cell therapeutics remain limited by the intrinsic constraints imposed by T-cell biology, such as T-cell exhaustion, poor trafficking into hostile tumor beds, toxicity, and challenges associated with tumor antigenic escape. Several of such limitations can be addressed by further engineering, expanding significantly the potential of cell therapy. This review focuses on the promise of using currently available cellular engineering technologies to genetically engineer single T cells at multiple different loci and/or confer several novel functions to circumvent the shortcomings of adoptive immunotherapy to treat cancer. Various methodologies and rationales for the design of these advanced engineered cellular products are described, along with emerging clinical data supporting the use of multiplex-engineered T cells. The limitations of advanced cell engineering and the remaining gaps that need to be filled to optimize the efficacy of adoptive T-cell immunotherapies are also discussed.",
+      "abstract_preview": "Adoptive T cell transfer has emerged as a pillar of modern cancer immunotherapy. Propelled by viral and non-viral-based technologies, such as CRISPR-Cas9, genetic engineering offers novel opportunities for both emerging cellular therapies and the improvement of more established approaches such as ch\u2026",
+      "authors": [
+        "Jafarzadeh L",
+        "Smaani A",
+        "Delisle JS"
+      ],
+      "doi": "doi: 10.3389/fimmu.2025.1680410",
+      "has_abstract": true,
+      "impact_factor": 7.0,
+      "is_top": false,
+      "issn": "1664-3224",
+      "journal": "Frontiers in immunology",
+      "pmid": "41181132",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Multiplex engineering and multifunction T cells for precise and effective immunotherapies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41181132/",
+      "year": 2025,
+      "zone": 2,
+      "zone_label": "2\u533a",
+      "zone_name": "\u533b\u5b66"
+    },
+    {
+      "abstract": "Adoptive immunotherapy with T cells, genetically modified to express a tumor-reactive chimeric antigen receptor (CAR), is an innovative and rapidly developing life-saving treatment for cancer patients without other therapeutic opportunities. CAR-T cell therapy has proven effective only in hematological malignancies. However, although by now only a few clinical trials had promising outcomes, we predict that CAR-T therapy will eventually become an established treatment for several solid tumors. Oncolytic viruses (OVs) can selectively replicate in and kill cancer cells without harming healthy cells. They can stimulate an immune response against the tumor, because OVs potentially stimulate adaptive immunity and innate components of the host immune system. Using CAR-T cells along with oncolytic viruses may enhance the efficacy of CAR-T cell therapy in destroying solid tumors by increasing the tumor penetrance of T cells and reducing the immune suppression by the tumor microenvironment. This review describes recent advances in the design of oncolytic viruses and CAR-T cells while providing an overview of the potential combination of oncolytic virotherapy with CAR-T cells for solid cancers. In this review, we will focus on the host-virus interaction in the tumor microenvironment to reverse local immunosuppression and to develop CAR-T cell effector function.",
+      "abstract_preview": "Adoptive immunotherapy with T cells, genetically modified to express a tumor-reactive chimeric antigen receptor (CAR), is an innovative and rapidly developing life-saving treatment for cancer patients without other therapeutic opportunities. CAR-T cell therapy has proven effective only in hematologi\u2026",
+      "authors": [
+        "Ponterio E",
+        "Haas TL",
+        "De Maria R"
+      ],
+      "doi": "doi: 10.3389/fimmu.2024.1455163",
+      "has_abstract": true,
+      "impact_factor": 7.0,
+      "is_top": false,
+      "issn": "1664-3224",
+      "journal": "Frontiers in immunology",
+      "pmid": "39539554",
+      "pub_type": "\u7efc\u8ff0",
+      "quartile": "Q1",
+      "title": "Oncolytic virus and CAR-T cell therapy in solid tumors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39539554/",
+      "year": 2024,
+      "zone": 2,
+      "zone_label": "2\u533a",
+      "zone_name": "\u533b\u5b66"
+    }
+  ],
+  "total": 12162,
+  "wordcloud": [
+    {
+      "name": "the",
+      "value": 830
+    },
+    {
+      "name": "and",
+      "value": 807
+    },
+    {
+      "name": "car",
+      "value": 666
+    },
+    {
+      "name": "cell",
+      "value": 415
+    },
+    {
+      "name": "cells",
+      "value": 356
+    },
+    {
+      "name": "therapy",
+      "value": 351
+    },
+    {
+      "name": "car therapy",
+      "value": 344
+    },
+    {
+      "name": "car cells",
+      "value": 316
+    },
+    {
+      "name": "for",
+      "value": 288
+    },
+    {
+      "name": "car cell",
+      "value": 278
+    },
+    {
+      "name": "chimeric antigen",
+      "value": 234
+    },
+    {
+      "name": "cell therapy",
+      "value": 226
+    },
+    {
+      "name": "antigen receptor",
+      "value": 222
+    },
+    {
+      "name": "with",
+      "value": 211
+    },
+    {
+      "name": "tumor",
+      "value": 184
+    },
+    {
+      "name": "antigen",
+      "value": 164
+    },
+    {
+      "name": "treatment",
+      "value": 136
+    },
+    {
+      "name": "cancer",
+      "value": 134
+    },
+    {
+      "name": "immunotherapy",
+      "value": 131
+    },
+    {
+      "name": "are",
+      "value": 131
+    },
+    {
+      "name": "this",
+      "value": 130
+    },
+    {
+      "name": "receptor",
+      "value": 126
+    },
+    {
+      "name": "immune",
+      "value": 122
+    },
+    {
+      "name": "chimeric",
+      "value": 120
+    },
+    {
+      "name": "has",
+      "value": 111
+    },
+    {
+      "name": "solid tumors",
+      "value": 110
+    },
+    {
+      "name": "patients",
+      "value": 106
+    },
+    {
+      "name": "this review",
+      "value": 106
+    },
+    {
+      "name": "that",
+      "value": 104
+    },
+    {
+      "name": "multiple myeloma",
+      "value": 100
+    },
+    {
+      "name": "clinical",
+      "value": 99
+    },
+    {
+      "name": "receptor cell",
+      "value": 98
+    },
+    {
+      "name": "have",
+      "value": 96
+    },
+    {
+      "name": "and the",
+      "value": 94
+    },
+    {
+      "name": "receptor car",
+      "value": 92
+    },
+    {
+      "name": "therapy for",
+      "value": 92
+    },
+    {
+      "name": "tumors",
+      "value": 88
+    },
+    {
+      "name": "therapies",
+      "value": 84
+    },
+    {
+      "name": "solid",
+      "value": 79
+    },
+    {
+      "name": "efficacy",
+      "value": 76
+    },
+    {
+      "name": "patients with",
+      "value": 74
+    },
+    {
+      "name": "therapy has",
+      "value": 72
+    },
+    {
+      "name": "review",
+      "value": 71
+    },
+    {
+      "name": "these",
+      "value": 71
+    },
+    {
+      "name": "the treatment",
+      "value": 70
+    },
+    {
+      "name": "multiple",
+      "value": 66
+    },
+    {
+      "name": "tumor microenvironment",
+      "value": 66
+    },
+    {
+      "name": "cell car",
+      "value": 66
+    },
+    {
+      "name": "adoptive",
+      "value": 63
+    },
+    {
+      "name": "myeloma",
+      "value": 63
+    },
+    {
+      "name": "cells and",
+      "value": 62
+    },
+    {
+      "name": "potential",
+      "value": 59
+    },
+    {
+      "name": "therapeutic",
+      "value": 58
+    },
+    {
+      "name": "been",
+      "value": 54
+    },
+    {
+      "name": "adoptive immunotherapy",
+      "value": 54
+    },
+    {
+      "name": "has been",
+      "value": 54
+    },
+    {
+      "name": "malignancies",
+      "value": 52
+    },
+    {
+      "name": "strategies",
+      "value": 52
+    },
+    {
+      "name": "adoptive cell",
+      "value": 52
+    },
+    {
+      "name": "challenges",
+      "value": 50
+    }
+  ],
+  "years": {
+    "2022": 69,
+    "2023": 58,
+    "2024": 45,
+    "2025": 20,
+    "2026": 8
+  }
+}
